@@ -1,0 +1,18 @@
+.Nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:active,
+a:hover {
+  color: red;
+}
